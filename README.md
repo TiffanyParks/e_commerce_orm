@@ -37,6 +37,9 @@ THEN I am able to successfully create, update, and delete data in my database
   * Mysql2: 2.1.0
   * Sequelize: 5.21.7
 
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/126128634/236948740-716889a5-565b-4dde-9060-1b9e38bb0168.png">
+
+
   GitHub URL: https://github.com/TiffanyParks/e_commerce_orm.git
   Screencastify URL: https://watch.screencastify.com/v/pSKJvbWyTB5p1eaRW4tC
   
