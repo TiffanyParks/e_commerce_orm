@@ -42,5 +42,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
   GitHub URL: https://github.com/TiffanyParks/e_commerce_orm.git
   
+  Updated Screencastify URL: https://watch.screencastify.com/v/3AcBtCmCt8jq7H6HinJ0
+  
   Screencastify URL: https://watch.screencastify.com/v/pSKJvbWyTB5p1eaRW4tC
   
